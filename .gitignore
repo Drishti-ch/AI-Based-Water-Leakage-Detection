@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Large datasets
+Data/*.xlsx
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
