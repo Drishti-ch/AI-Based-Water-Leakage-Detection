@@ -1,0 +1,2 @@
+Data/2018_SCADA.xlsx filter=lfs diff=lfs merge=lfs -text
+Database/water_leakage.db filter=lfs diff=lfs merge=lfs -text
